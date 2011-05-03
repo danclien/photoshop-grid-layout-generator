@@ -1,0 +1,53 @@
+PSD Layout Grid Generator
+Written by Dan Lien [http://danclien.com]
+June 19, 2009
+
+Introduction
+-------------
+
+This is a script and action file for Adobe Photoshop CS3 that can generate a layout grid based on the 960.gs grid system [http://960.gs].
+
+This has only been tested on Adobe Photoshop CS3 and CS5 for the Mac.
+
+
+Installation for Mac
+---------------------
+
+1. Close Adobe Photoshop.
+
+2. Place the "Layout Grid Generator.jsx" file into your Scripts folder.
+
+   Mac: [Hard drive]/Applications/Adobe Photoshop CS3/Presets/Scripts/
+   PC: C:\Program Files\Adobe\Adobe Photoshop CS3\Presets\Scripts\
+
+3. Place the "dclScriptLibrary.atn" file your Actions folder.
+
+   Mac: [Hard drive]/Applications/Adobe Photoshop CS3/Presets/Actions/
+   PC: C:\Program Files\Adobe\Adobe Photoshop CS3\Presets\Actions\
+
+4. Open up Adobe Photoshop.
+
+5. Open up the Actions panel, and load up the dclScriptLibrary Action set.
+
+
+How to Use
+-----------
+
+1.  Go to [File] -> [Scripts] -> [Layout Grid Generator].
+
+2.  Changes the values to your preference.
+
+3.  Click "Generate."
+
+
+History
+--------
+
+v1.0.0 Initial release
+
+
+Disclaimer
+-----------
+
+Use at your own risk.  I am not responsible for any damages or lost time this may cause!
+
